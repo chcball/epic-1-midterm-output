@@ -4,6 +4,6 @@ The Mandala is a geometric design that represents the cosmos. The Mandala is a s
 
 References:
 
-github.com/ythecombinator/python-homework/blob/master/turtle/mandala.py
+https://github.com/ythecombinator/python-homework/blob/master/turtle/mandala.py
 
 https://www.tutorialspoint.com/turtle-graphics-using-python
